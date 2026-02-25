@@ -29,7 +29,7 @@ export default function Home() {
             </div>
 
             <h1 className="mt-4 text-3xl font-semibold leading-tight tracking-tight sm:text-5xl">
-              Building reliable, scalable systems for modern products.
+              Building reliable, scalable systems for modern products — and learning by shipping.
             </h1>
 
             <p className="mt-4 max-w-2xl text-base leading-relaxed text-[#1f2328]/70">
